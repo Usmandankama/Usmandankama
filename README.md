@@ -1,7 +1,7 @@
 # 👋 Usman here 
 🚀 **Full-Stack Developer | 💙 Flutter Enthusiast | 🐍 Python Backend | 🔐 Cybersecurity Explorer**  
 
-I’m a passionate **software developer** who loves building **sleek mobile & web apps** 🚀. Whether it’s **crafting elegant Flutter UIs**, diving into **Python backends (Django/FastAPI)**, or **exploring cybersecurity & blockchain**, I’m always pushing boundaries. Show yourself around 
+I’m a **software developer** who loves building **sleek mobile & web apps** 🚀. Whether it’s **crafting elegant Flutter UIs**, diving into **Python backends (Django/FastAPI)**, or **exploring cybersecurity & blockchain**, I’m always pushing boundaries. Show yourself around 
 
 ---
 
