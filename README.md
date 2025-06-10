@@ -14,7 +14,7 @@ I’m a **software developer** who loves building **sleek mobile & web apps** �
 ## 🌱 Currently Learning  
 - 🔐 **Cybersecurity & Blockchain** → Securing & Scaling Apps  
 - 🚀 **Advanced Flutter & GetX** for smooth state management  
-- 🤖 **Machine Learning & AI** (because why not?)  
+- 🤖 **Machine Learning & AI** (because why not)  
 ---
 
 ## 🚀 Fun Facts  
