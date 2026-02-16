@@ -7,18 +7,18 @@ I’m a **software developer** who loves building **sleek mobile & web apps**. W
 
 ## What I Do  
 - **Flutter Development** → Mobile & Web Apps  
-- **Backend Engineering** → Python (Django, FastAPI)  
+- **Backend Engineering** → Python (Django, FastAPI), Bun 
 - **Full-Stack Development** → Firebase, PostgreSQL, APIs  
 ---
 
 ## Currently Learning  
 - **Cybersecurity & Blockchain** → Securing & Scaling Apps  
-- **Advanced Flutter & GetX** for smooth state management  
-- **Machine Learning & AI** (because why not)  
+- ****IOT Integration**
+- **Machine Learning & AI** 
 ---
 
 ## Fun Facts  
-- I build **EdTech & FinTech** apps because **innovation is key!**  
+- I love building practical projects that directly impact lives
 - Love working on **game-changing ideas** & **open-source projects**  
 
 **"Building the future, one line of code at a time!"**  
