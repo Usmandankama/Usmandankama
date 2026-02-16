@@ -13,7 +13,7 @@ I’m a **software developer** who loves building **sleek mobile & web apps**. W
 
 ## Currently Learning  
 - **Cybersecurity & Blockchain** → Securing & Scaling Apps  
-- ****IOT Integration**
+- **IOT Integration**
 - **Machine Learning & AI** 
 ---
 
